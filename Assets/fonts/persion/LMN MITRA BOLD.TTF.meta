@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 812a8c4ce1a832c45b7a1390276bb38b
+timeCreated: 1563280902
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: LMN Mitra Bold
+  fontNames:
+  - LMN Mitra Bold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
